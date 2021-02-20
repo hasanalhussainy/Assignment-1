@@ -11,7 +11,7 @@ port= int(input("Port:"))
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 server_address=(host,port)
 
-sum=0
+sum=1
     
 
 
